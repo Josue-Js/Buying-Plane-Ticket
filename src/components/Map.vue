@@ -103,14 +103,15 @@ watch([() => props.location.origin, () => props.location.destination], (data) =>
   var zoomLevel = 2;
   const latitudePoint0 = points[0].get('latitude') as number;
   const longitudePoint0 = points[0].get('longitude') as number;
-  const latitudePoint1 = points[1].get('latitude') as number;
-  const longitudePoint1 = points[1].get('longitude') as number;
+  
 
   if (points.length == 1) {
     zoomCoordinates.latitude =  latitudePoint0
     zoomCoordinates.longitude = longitudePoint0;
 
   } else {
+    const latitudePoint1 = points[1].get('latitude') as number;
+    const longitudePoint1 = points[1].get('longitude') as number;
     const pointMiddleLatitude = (latitudePoint0 + latitudePoint1) / 2;
     const pointMiddleLongitude = (longitudePoint0 + longitudePoint1) / 2;
 
