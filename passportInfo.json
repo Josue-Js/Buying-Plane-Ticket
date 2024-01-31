@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "avatar": "./src/assets/avatar1.png",
+      "avatar": "/avatar1.png",
       "firstName": "Robert",
       "lastName": "Cooper",
       "DateOfBirth": "31/01/1989",
@@ -11,7 +11,7 @@
       "DocumentExpires": "14/02/34"
     },
     {
-      "avatar": "./src/assets/avatar2.png",
+      "avatar": "/avatar2.png",
       "firstName": "Jenny",
       "lastName": "Cooper",
       "DateOfBirth": "23/08/1990",
@@ -21,7 +21,7 @@
       "DocumentExpires": "04/09/2036"
     },
     {
-      "avatar": "./src/assets/avatar3.png",
+      "avatar": "/avatar3.png",
       "firstName": "Jenny",
       "lastName": "Cooper",
       "DateOfBirth": "11/04/2015",
