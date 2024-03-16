@@ -3,7 +3,7 @@
 
 [Demo do projeto](https://buying-plane-ticket.vercel.app)
 
-![image](https://cdn.dribbble.com/userupload/5237445/file/original-3210cf003b0e2252ae9943eb1ee965b4.png?resize=1024x768&vertical=center)
+![image](/public/screenshot.png)
 # Sobre
 
 Esse projeto eu estava navegado pelo dribble com quem não quer nada e me deparei com essa incrível Interface depois de muita preguiça resolvi faz lá. E testa me conhecimento em Vue e tailwinds que era quase, QUASE zero mas essa não foi a parte mais difícil do projeto,a parte mais difícil foi implementa o mapa mais depois de longas horas de ódio e esforço eu consegui.   
